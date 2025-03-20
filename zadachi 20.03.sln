@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadachi 20.03", "zadachi 20.03.csproj", "{AC32D38A-DFC5-4BAD-9017-2F913AF45BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2zadachkaStack", "..\2zadachkaStack\2zadachkaStack.csproj", "{086343EF-8B38-4D3F-9FD4-7CD2886C97B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC32D38A-DFC5-4BAD-9017-2F913AF45BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC32D38A-DFC5-4BAD-9017-2F913AF45BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC32D38A-DFC5-4BAD-9017-2F913AF45BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086343EF-8B38-4D3F-9FD4-7CD2886C97B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086343EF-8B38-4D3F-9FD4-7CD2886C97B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086343EF-8B38-4D3F-9FD4-7CD2886C97B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086343EF-8B38-4D3F-9FD4-7CD2886C97B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
